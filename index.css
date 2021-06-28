@@ -273,25 +273,3 @@ dt {
   word-break: break-all;
 }
 }
-.pppimg{
-display:block;
-margin:auto;
-height:600px;
-}
-.pppone{
-position: relative;
-    top: 315px;
-text-align:center;
-font-weight:900;
-font-size:20px;
-font-family:'ubuntu',sans-serif;
-}
-.ppptwo{
-position: relative;
-    top: 325px;
- text-align:center;
-font-weight:800;
-font-size:20px;
-font-family: ' ubuntu' ,sans-serif;
-}
-
